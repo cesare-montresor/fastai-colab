@@ -10,6 +10,6 @@ For the notebook that use Kaggle datasets, in order to be able to download them 
 1. Register an account on Kaggle.com ( one-time )  
 2. Verify your phone number ( one-time )  
 3. Generate and Download a API Token from: My Account > API > Generate new token ( one-time )   
-4. Accept "term and condition" for the specific competition   
+4. Accept the terms of the specific competition: Rules > "I understand and accept"
 5. Paste the content of kaggle.json in the notebook ( see instructions in the notebook )  
 
