@@ -1,7 +1,8 @@
 # fastai-colab
 Porting of fast.ai python notebooks classes for Google Colab platform.
 
-The porting may be imperfect and some of the dependecies might be not needed. Consider yourself encouraged to open an issue and help me to perfect them.
+The porting may be imperfect and some of the dependecies might be not needed.  
+Consider yourself encouraged to open an issue and help me to perfect them.
 
 ## Special note: Kaggle
 
