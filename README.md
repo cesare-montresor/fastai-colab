@@ -1,2 +1,2 @@
 # fastai-colab
-Porting of fast.ai classes for Google Colab platform
+Porting of fast.ai python notebooks classes for Google Colab platform
