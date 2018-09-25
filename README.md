@@ -24,6 +24,6 @@ For the notebook that use Kaggle datasets, it's required to perform the followin
 4. Accept the terms of the specific competition: Rules > "I understand and accept"
 5. Paste the content of kaggle.json in the notebook ( see instructions in the notebook )  
 
-## Work in progress
-*25 September 2018*   
+## Updates
+#### *25 September 2018: Work in progress*   
 We are currently at lesson 10 (part2, lesson 3), so there are some missing notebooks, they will be ported when the class will be prepared. However, as we will do it anyway, feel free to pop me a message to ask to add a missing notebook ^_^ 
