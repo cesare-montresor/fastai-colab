@@ -1,4 +1,5 @@
-The material you find here is currently being produced to support the activities of the study group "Tarallucci, Vino e Machine Learning" based in Verona, Italy.  
+The material you find here is currently being produced to support the activities of the study group   
+**Tarallucci, Vino e Machine Learning** based in Verona, Italy.  
 [Facebook](https://www.facebook.com/groups/TarallucciVinoMachineLearningVerona/) <https://www.meetup.com/Tarallucci-Vino-Machine-Learning>   
 [Meetup](https://www.meetup.com/Tarallucci-Vino-Machine-Learning) <https://www.meetup.com/Tarallucci-Vino-Machine-Learning>   
 
