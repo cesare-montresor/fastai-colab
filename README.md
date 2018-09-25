@@ -18,7 +18,7 @@ Consider yourself encouraged to open an issue/pull-request and help me to perfec
 
 For the notebook that use Kaggle datasets, it's required to perform the following steps,  in order to be able to download them on-the-fly:  
   
-1. Register an account on Kaggle.com ( one-time )  
+1. Register an account on <www.kaggle.com> ( one-time )  
 2. Verify your phone number ( one-time )  
 3. Generate and Download a API Token from: My Account > API > Generate new token ( one-time )   
 4. Accept the terms of the specific competition: Rules > "I understand and accept"
