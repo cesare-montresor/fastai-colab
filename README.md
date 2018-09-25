@@ -3,6 +3,8 @@ The material you find here is currently being produced to support the activities
 
 **Facebook:** <https://www.meetup.com/Tarallucci-Vino-Machine-Learning>   
 **Meetup:** <https://www.meetup.com/Tarallucci-Vino-Machine-Learning>   
+**Story** <https://medium.com/@cesaremontresor/fast-ai-notebooks-google-colab-ready-44a67be5c14b>
+
 
 
 ## fastai-colab notebooks
